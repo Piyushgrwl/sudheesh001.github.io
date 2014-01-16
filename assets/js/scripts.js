@@ -1,11 +1,3 @@
-/*
-*
-*	Created : Adam Rudzki portfolio
-*	Desctipition : Main core for portfolio .js controling
-*	Date : 2012 December
-*
-*/
-
 var ar = ar || {};
 
 
