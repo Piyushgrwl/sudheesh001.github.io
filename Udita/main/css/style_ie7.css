@@ -1,0 +1,45 @@
+.sl-slider{
+	position: relative !important;
+	left:auto !important;
+	top:auto !important;
+}
+
+.sl-slide{
+	float: left!important;
+	clear:both!important;
+	width: 100%!important;
+	height: 640px;
+	position: relative !important;
+	left:auto !important;
+	top:auto !important;
+	overflow:hidden!important;
+}
+
+#gallery, #about, #contact, #exhibition{
+	padding-top: 25px;
+}
+
+.sl-slide-dark{
+	background-color: #ffffff;
+}
+
+.sl-slide-color-1{
+	background-color: #5E8BA1;
+}
+
+.sl-slide-color-2{
+	background-color: #B54B11;
+}
+
+.sl-slide-color-3{
+	background-color: #6D684F;
+	height: 670px;	
+}
+
+#about img.signature{
+	display: none !important;
+}
+
+#main-logo{
+	cursor:default !important;
+}
