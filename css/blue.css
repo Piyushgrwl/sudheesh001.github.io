@@ -16,8 +16,8 @@
 .button:visited,
 .button:focus,
 .button:active {
-  border-color: #FFF;
-  color: #FFF;
+  border-color: #39C;
+  color: #39C;
 }
 .button:active,
 .button.active,
