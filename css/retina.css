@@ -7,9 +7,9 @@ only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
     /* Comments */
     .comment .avatar > .mask {
-        background-image: url('../img/avatar-mask@2x.png');
+        background-image: url('');
     }
     body.dark .comment .avatar > .mask {
-        background-image: url('../img/avatar-mask-dark@2x.png');
+        background-image: url('');
     }
 }

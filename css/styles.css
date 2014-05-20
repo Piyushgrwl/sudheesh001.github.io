@@ -838,11 +838,11 @@ section > .content {
     left: 0;
     width: 94px;
     height: 94px;
-    background: url('../img/avatar-mask.png') center center no-repeat;
+    background: url('') center center no-repeat;
     background-size: 94px 94px;
 }
 body.dark .comment .avatar > .mask {
-    background-image: url('../img/avatar-mask-dark.png');
+    background-image: url('');
 }
 .comment .content .name {
     font-size: 15px;
@@ -917,11 +917,11 @@ body.dark .comment .content .name {
     left: 0;
     width: 4px;
     height: 9px;
-    background: url('../img/skill-left.png') 0 0 no-repeat transparent;
+    background: url('') 0 0 no-repeat transparent;
     background-size: 4px 9px;
 }
 body.dark .skill-bar .bar:before {
-    background-image: url('../img/skill-left-dark.png');
+    background-image: url('');
 }
 .skill-bar .bar:after {
     display: block;
@@ -931,11 +931,11 @@ body.dark .skill-bar .bar:before {
     right: 0;
     width: 4px;
     height: 9px;
-    background: url('../img/skill-right.png') right 0 no-repeat transparent;
+    background: url('') right 0 no-repeat transparent;
     background-size: 4px 9px;
 }
 body.dark .skill-bar .bar:after {
-    background-image: url('../img/skill-right-dark.png');
+    background-image: url('');
 }
 .skill-bar .fill {
     position: relative;
@@ -951,11 +951,11 @@ body.dark .skill-bar .bar:after {
     left: 0;
     width: 5px;
     height: 5px;
-    background: url('../img/skill-fill-left.png') 0 0 no-repeat transparent;
+    background: url('') 0 0 no-repeat transparent;
     background-size: 5px 5px;
 }
 body.dark .skill-bar .fill:before {
-    background-image: url('../img/skill-fill-left-dark.png');
+    background-image: url('');
 }
 .skill-bar .fill:after {
     display: block;
@@ -965,11 +965,11 @@ body.dark .skill-bar .fill:before {
     right: 0;
     width: 5px;
     height: 5px;
-    background: url('../img/skill-fill-right.png') right 0 no-repeat transparent;
+    background: url('') right 0 no-repeat transparent;
     background-size: 5px 5px;
 }
 body.dark .skill-bar .fill:after {
-    background-image: url('../img/skill-fill-right-dark.png');
+    background-image: url('');
 }
 .skill-bar .value {
     display: block;
